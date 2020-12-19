@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Platformer",
+			"Path": "C:\\Users\\sweet\\OneDrive\\Documents\\_Projects\\Repos\\unrealEnginePractice\\Platformer\\Platformer\\Source\\Platformer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlatformerEditor",
+			"Path": "C:\\Users\\sweet\\OneDrive\\Documents\\_Projects\\Repos\\unrealEnginePractice\\Platformer\\Platformer\\Source\\PlatformerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\Definitions.Platformer.h
+E:\ProgramFiles\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\ProgramFiles\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Source\Platformer/PlatformerGameModeBase.h
+E:\ProgramFiles\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\ProgramFiles\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\ProgramFiles\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\ProgramFiles\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Intermediate\Build\Win64\UE4Editor\Inc\Platformer\PlatformerGameModeBase.generated.h

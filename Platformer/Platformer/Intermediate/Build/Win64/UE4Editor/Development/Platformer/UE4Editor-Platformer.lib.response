@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Platformer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Intermediate\Build\Win64\PlatformerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\Platformer.cpp.obj"
+"C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\PlatformerGameModeBase.cpp.obj"
+"C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\Platformer.init.gen.cpp.obj"
+"C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\PlatformerGameModeBase.gen.cpp.obj"
+"C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\Default.rc2.res"
+/OUT:"C:\Users\sweet\OneDrive\Documents\_Projects\Repos\unrealEnginePractice\Platformer\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\UE4Editor-Platformer.lib"
+/INCLUDE:IMPLEMENT_MODULE_Platformer

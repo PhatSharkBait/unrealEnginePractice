@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Platformer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E963DCCB-E6C7-475D-853E-1A1EAD1F4CD2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Platformer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PlatformerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4354F7A1-917D-4EFC-ADF3-16EB6503EE7C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Platformer">
+      <UniqueIdentifier>{D20EC0A5-5E92-4064-9E6C-8750A976C7AD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Platformer\Platformer.Build.cs">
+      <Filter>Source\Platformer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Platformer\Platformer.cpp">
+      <Filter>Source\Platformer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Platformer\Platformer.h">
+      <Filter>Source\Platformer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Platformer\PlatformerGameModeBase.cpp">
+      <Filter>Source\Platformer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Platformer\PlatformerGameModeBase.h">
+      <Filter>Source\Platformer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
